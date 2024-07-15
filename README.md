@@ -1,4 +1,4 @@
-# React Chat App
+# Chat App
 
 This is a React-based web application designed to facilitate real-time communication through text-based chat. It enables user to perform standard CRUD operations with rooms, direct chats with other users and messages in the chats, offering a seamless chatting experience with features tailored for smooth user interaction and engagement.
 
@@ -19,5 +19,5 @@ To run this application locally, follow these steps:
 
 1. Clone this repository.
 2. Install dependencies using `npm install`.
-3. Add the .env file with REACT_APP_API_URL variable to point to your backend server ([backend server repository](https://github.com/akozlovska/node_chat/tree/develop)).
+3. Add the .env file with REACT_APP_API_URL variable to point to your backend server ([backend server repository](https://github.com/akozlovska/chat_app_backend)).
 4. Run the application using `npm start`.
